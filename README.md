@@ -106,7 +106,7 @@ MIT License
 
 ## Author
 
-[Your Name]
+[Chuan Zhou]
 
 ## Acknowledgments
 
